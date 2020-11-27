@@ -1,7 +1,9 @@
-# ------------------------------------------------
-# comentario para estudo:
-# site para consultar www.toptal.com - gitgnore.io
-# ------------------------------------------------
+# -----------------------------------------------------
+# Comentario para estudo:
+# Site para adicionar arquivos que devem ser ignorados
+# São eles: java intellij Gradle macOs Linux
+# https://www.toptal.com/developers/gitignore
+# -----------------------------------------------------
 
 # Created by https://www.toptal.com/developers/gitignore/api/java,intellij,gradle,macos,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,intellij,gradle,macos,linux
