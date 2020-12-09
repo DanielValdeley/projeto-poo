@@ -27,7 +27,7 @@
     }
     ```
     
-    2. #### WHILE:
+    1. #### WHILE:
     ```java
     int valor = 1;
     while (valor < 10) {
@@ -36,7 +36,7 @@
     }
     ```
 
-    3. #### FOR:
+    1. #### FOR:
     ```java
     // Exemplo de loop for com uso do break
     for (int i = 0; i < 100; i++) {
@@ -53,7 +53,7 @@
     }
     ```
 
-    4. #### SWITCH:
+    1. #### SWITCH:
     ```java
     char letra = args[0]; 
     
@@ -148,7 +148,6 @@
     $ git checkout master
     $ git merge decisao
     ```
-  
     ```shell
     $ git checkout master
     $ git merge string
