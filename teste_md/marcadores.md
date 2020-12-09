@@ -17,7 +17,7 @@
 - ## Linguagem de programação Java
     ### - Estruturas de decisão
     
-    1. #### IF E ELSE:
+    - #### IF E ELSE:
     ```java
     int valor = 10;
     if (valor == 10) {
@@ -27,7 +27,7 @@
     }
     ```
     
-    1. #### WHILE:
+    - #### WHILE:
     ```java
     int valor = 1;
     while (valor < 10) {
@@ -36,7 +36,7 @@
     }
     ```
 
-    1. #### FOR:
+    - #### FOR:
     ```java
     // Exemplo de loop for com uso do break
     for (int i = 0; i < 100; i++) {
@@ -53,7 +53,7 @@
     }
     ```
 
-    1. #### SWITCH:
+    - #### SWITCH:
     ```java
     char letra = args[0]; 
     
