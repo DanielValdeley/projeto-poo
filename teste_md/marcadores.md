@@ -6,6 +6,6 @@
 
 ### Um novo teste de variação
 
-1. um
-2. dois
-3. três
+1. ### Um
+2. ### Dois
+3. ### Três
